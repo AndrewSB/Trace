@@ -1,10 +1,13 @@
 PODS:
   - Realm (0.80.0)
+  - SOMotionDetector (1.0.1)
 
 DEPENDENCIES:
   - Realm
+  - SOMotionDetector
 
 SPEC CHECKSUMS:
   Realm: 07cff9612cc0aae4f9a01820676a09f8e46007a7
+  SOMotionDetector: c9b0f935cfda1a1e7a7b40ecd73dc44c595de6e7
 
 COCOAPODS: 0.33.1

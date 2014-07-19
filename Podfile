@@ -1,1 +1,2 @@
 pod "Realm"
+pod "SOMotionDetector"

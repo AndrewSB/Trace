@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6A94BBC75112478F8617272C"
-               BuildableName = "libPods-Realm.a"
-               BlueprintName = "Pods-Realm"
+               BlueprintIdentifier = "90418A8163ED4DD2B3DB2E56"
+               BuildableName = "libPods-SOMotionDetector.a"
+               BlueprintName = "Pods-SOMotionDetector"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>

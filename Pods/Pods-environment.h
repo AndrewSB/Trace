@@ -12,3 +12,9 @@
 #define COCOAPODS_VERSION_MINOR_Realm 80
 #define COCOAPODS_VERSION_PATCH_Realm 0
 
+// SOMotionDetector
+#define COCOAPODS_POD_AVAILABLE_SOMotionDetector
+#define COCOAPODS_VERSION_MAJOR_SOMotionDetector 1
+#define COCOAPODS_VERSION_MINOR_SOMotionDetector 0
+#define COCOAPODS_VERSION_PATCH_SOMotionDetector 1
+
